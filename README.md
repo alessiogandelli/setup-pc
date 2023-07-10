@@ -34,6 +34,7 @@ to check if it worked go in the folder
 and you should see the two plugins folders, if not you can clone them in that folder, ask chatgpt or phind to solve specific problems
 
 
+# github 
 
-
+brew install gh
 
