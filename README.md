@@ -37,4 +37,5 @@ and you should see the two plugins folders, if not you can clone them in that fo
 # github 
 
 brew install gh
-
+git config --global user.name "Nome Cognome"
+git config --global user.email mailgithub
