@@ -1,7 +1,12 @@
 #!/bin/bash
 # launch command
 # sh -c "$(curl -fsSL https://raw.githubusercontent.com/alessiogandelli/setup-pc/main/raspberry.sh)"
-
+# apt
+echo "apt install ..."
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt autoremove -y
+sudo apt install build-essential mc jq curl wget git nano mc htop sudo bash zsh python3 python3-pip -y
 # oh-my-zsh
 echo "Installing oh-my-zsh ..."
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
