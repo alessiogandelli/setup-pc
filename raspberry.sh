@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# launch command
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/alessiogandelli/setup-pc/main/raspberry.sh)"
 
 # oh-my-zsh
 echo "Installing oh-my-zsh ..."

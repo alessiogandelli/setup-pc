@@ -1,4 +1,9 @@
 # setup-pc
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/alessiogandelli/setup-pc/main/raspberry.sh)"
+```
+
+
 steps to do after factory reset (formattone)  
 
 # terminal 
